@@ -51,7 +51,7 @@ function cambiarTema(){
 var estadoFoto = 1;
 function cambiarFoto(){
 	if(estadoFoto == 1){
-	document.getElementById('imagenCv').src="Imagenes\\FotoPerfilCV2.jpg";
+	document.getElementById('imagenCv').src="Imagenes\\FotoPerfilCV2.jpeg";
 	}
 	else if(estadoFoto == -1){
 	document.getElementById('imagenCv').src="Imagenes\\FotoPerfilCV.jpeg";
