@@ -1,0 +1,90 @@
+*{
+	font-family: 'Montserrat', sans-serif;
+}
+
+#infoLateral{
+	position: relative;
+	width: 400px;
+	height: 1300px;
+	padding: 20px;
+
+	color: #ffffff;
+	background: #3352a2;
+	font-size: 20px;
+}
+
+#infoSuperior{
+	position: relative;
+	left: 400px;
+	top:-1300px;
+
+	width: 1000px;
+	height: 300px;
+	padding: 20px;
+
+	color: #ffffff;
+	background: #87ceeb;
+	font-size: 20px;
+}
+
+#infoCentral{
+	position: relative;
+	left: 400px;
+	top:-1300px;
+
+	width: 1000px;
+	height: 1000px;
+	padding: 20px;
+
+	color: #ffffff;
+	background: #75aadb;
+	font-size: 20px;
+}
+
+#imagenCv{
+	margin: 25px;
+	margin-bottom: 40px;
+	left:-50;
+	width: 300px;
+	height: 300px;
+
+	border-radius: 50px;
+}
+
+.seccionesLateral{
+	margin: 25px;
+}
+
+h3 {
+	display: block;
+	background: royalblue;
+	border-radius: 20px;
+	padding: 10px;
+}
+
+div p{
+	margin-left: 40px;
+}
+
+.iconosCv{
+	position: absolute;
+	display: block;
+	height: 30px;
+	width: 30px;
+}
+
+#nombreCV{
+	width: fit-content;
+	font-family: 'Anton', sans-serif;
+	font-size: 40px;
+	diplay:block;
+}
+
+#modoTema{
+	position: absolute;
+	left: 900px;
+	top: 30px;
+	display: block;
+	height: 40px;
+	width: 40px;
+}
